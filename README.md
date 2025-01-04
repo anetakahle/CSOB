@@ -1,6 +1,6 @@
 # CSOB
 
-**Hlavníje PDF soubor, kde jsou shrnuté nejdůležitější výsledky.**
+**Hlavní je PDF soubor, kde jsou shrnuté nejdůležitější výsledky.**
 
 Dále jsou v repozitáři 2 datasety - 1 je dataset o inflaci a druhý je původní dataset upravený přiloženým python skriptem (doplněna národnost hráčů).
 
